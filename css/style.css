@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(180, 248, 7);
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  height: 90%;
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.board {
+  height: 90%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.drawingBoard {
+  background-color: white;
+  width: 70%;
+  height: 500px;
+  text-align: center;
+}
+
+h4 {
+  padding-top: 50%;
+}
